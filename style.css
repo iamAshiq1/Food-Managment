@@ -1,0 +1,136 @@
+body{
+    font-family: 'Mitr', sans-serif;
+    margin: 0;
+}
+p{
+    margin-right: 50px;
+    font-size: 20px;
+    color: gray;
+}
+.one{
+    margin-bottom: 50px;
+}
+h1{
+    color: gray;
+    font-size: 50px;
+}
+.color{
+    color: rgb(179, 12, 179);
+}
+.top{
+    background-image:url(images/bg.jpg);
+    display: flex;
+    margin-bottom: 100px;
+}
+.first{
+    margin-left: 100px;
+    width: 45%;
+    padding: 4%;
+}
+.second img{
+    width: 100%;
+}
+.link-button{
+    font-size: 20px;
+    text-decoration: none;
+    background-image: linear-gradient(rgb(238, 159, 14), rgb(223, 11, 110));
+    color: white;
+    font-weight: 700;
+    padding: 20px 50px;
+    border-radius: 40px;
+}
+.mid{
+     display: flex;
+      background-image:url(images/bg6.jpg) ;
+      background-repeat: no-repeat;
+}
+.second{
+    margin-left: 50px;
+    width: 50%;
+    padding: 3%;
+}
+.mid{
+    display: flex;
+    margin-bottom: 150px;
+}
+h2{
+    color: gray;
+    font-size: 40px;
+}
+.third img{
+    width: 100%;
+    padding: 3%;
+    margin-left: 100px;
+}
+.forth{
+    margin-top: 80px;
+    width: 50%;
+    margin-left: 150px;
+    margin-right: 100px;
+}
+.two{
+    margin-bottom: 60px;
+}
+.Contact-Me{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(14, 238, 81), rgb(20, 68, 129));
+    color: white;
+    font-weight: 500;
+    padding: 20px 40px;
+    border-radius: 30px;
+}
+.MR{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+}
+.main{
+    display: flex;
+    }
+.fifth{
+    width: 30%;
+    margin-right: 2%;
+    margin-left: 2%;
+    margin-bottom: 150px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 0px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 60px rgb(204, 201, 201);
+}
+.fifth img{
+    width: 100%;
+}
+.popularity{
+    display: flex;
+    margin-right: 7%;
+    margin-left: 7%;
+    margin-bottom: 100px;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 50px rgb(211, 211, 211);
+}
+.left{
+    padding-left: 20px;
+}
+.right{
+    padding-left: 250px;
+}
+.middle{
+    padding-left: 260px;
+}
+.down{
+    padding-top: 20px;
+    padding-bottom: 40px;
+    text-align: center;
+    margin-left: 1px;
+    margin-bottom: 2px;
+    background-color: rgb(6, 6, 15);
+}
+h4{
+    color: rgb(216, 213, 213);
+}
